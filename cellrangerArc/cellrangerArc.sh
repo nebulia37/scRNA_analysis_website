@@ -1,6 +1,6 @@
 workdir="./"
 cd $workdir
-cellrangerArc=/mnt/novaoutput/shunian/tools/cellranger-arc-2.0.2/cellranger-arc
+cellrangerArc=/mnt/novaoutput/shunian/pipelines/scRNA/tools/cellranger-arc-2.0.2/cellranger-arc
 transRef='../Macaca_mulatta_Mmul_10_114_SIVmac251_withMotif'
 
 name="24155-06-01"
