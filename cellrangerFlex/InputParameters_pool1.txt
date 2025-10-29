@@ -1,0 +1,7 @@
+workdir,/mnt/novaoutput/shunian/scRNA/cellrangerOnly/25464-01-flex
+poolID,25464-01-pool1
+fastqdir,/mnt/novaoutput/Delivery_Team/1-Analysis/25464-01-2025-10-28-14/SampleSheet-102625-150-XB-fcB--10nt-10nt-1-mismatch-2025-10-28-14
+species,mouse
+sampleInfoFile,25464-01-pool1_sampleInfo.csv ## sample_id,probe_barcode_ids,description| sample1,BC001,Control| sample2,BC003,Treated
+fastq_id,25464-01-pool1
+cellranger,/mnt/novaoutput/shunian/pipelines/scRNA/tools/cellranger-9.0.1/cellranger

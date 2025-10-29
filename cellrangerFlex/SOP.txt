@@ -1,0 +1,3 @@
+step1: make sample info file 25464-01-pool1_sampleInfo.csv
+step2: modify input parameter files InputParameterFile_pool1.txt
+step3: nohup ./cellrangerFlex.sh InputParameterFile_pool1.txt >pool1.out &

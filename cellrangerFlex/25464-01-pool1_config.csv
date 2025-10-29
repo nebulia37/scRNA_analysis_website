@@ -1,0 +1,15 @@
+[gene-expression]
+reference,/mnt/novaoutput/shunian/pipelines/scRNA/GenomeDB/refdata-gex-GRCm39-2024-A
+probe-set,/mnt/novaoutput/shunian/pipelines/scRNA/tools/cellranger-9.0.1/probe_sets/Chromium_Mouse_Transcriptome_Probe_Set_v1.1.1_GRCm39-2024-A.csv
+create-bam,true
+ 
+[libraries]
+fastq_id,fastqs,feature_types
+25464-01-pool1,/mnt/novaoutput/Delivery_Team/1-Analysis/25464-01-2025-10-28-14/SampleSheet-102625-150-XB-fcB--10nt-10nt-1-mismatch-2025-10-28-14,Gene Expression
+ 
+[samples]
+sample_id,probe_barcode_ids,description
+25464-01-01,BC001,KLB1524
+25464-01-02,BC002,KLB1530
+25464-01-03,BC003,KLB1536
+25464-01-04,BC004,KLB1578
