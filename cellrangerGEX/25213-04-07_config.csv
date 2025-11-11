@@ -1,0 +1,8 @@
+[gene-expression]
+reference,/mnt/novaoutput/shunian/pipelines/scRNA/GenomeDB/refdata-gex-GRCm39-2024-A
+create-bam,true
+ 
+[libraries]
+fastq_id,fastqs,feature_types
+25213-04-07,/mnt/novaoutput/Delivery_Team/1-Analysis/25213-04-2025-11-02-14/SampleSheet-103125-150-XB-fcA--10nt-10nt-1-mismatch-2025-11-02-14,Gene Expression
+ 
