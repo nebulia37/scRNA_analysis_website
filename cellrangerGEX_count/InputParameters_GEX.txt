@@ -1,5 +1,0 @@
-workdir,/mnt/novaoutput/shunian/scRNA/cellrangerOnly/25213-04-gex-batch2
-fastqdir,/mnt/novaoutput/Delivery_Team/1-Analysis/25213-04-2025-11-02-14/deliver/Batch_11102025_175648/deliver
-species,mouse
-cellranger,/mnt/novaoutput/shunian/pipelines/scRNA/tools/cellranger-9.0.1/cellranger
-theads,8
